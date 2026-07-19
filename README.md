@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br><br>I'm a Computer Science Engineering student continuously improving my programming skills. I enjoy building practical projects, learning new technologies, and solving real-world problems through code.<br><br>- 🔭 I’m currently working on Python projects and improving my skills.<br>- 🤝 I’m looking to collaborate on beginner-friendly open-source projects.<br>- 🌱 I’m currently learning  Data Structures & Algorithms, Generative and Agentic AI.<br>- 💬 Ask me about Python, C++, MySQL, JavaScript, Git/GitHub, HTML, CSS, .<br>- ⚡ Fun fact: I enjoy turning ideas into projects and learning something new every day.
+## <br>I'm a Computer Science Engineering student continuously improving my programming skills. I enjoy building practical projects, learning new technologies, and solving real-world problems through code.<br><br>- 🔭 I’m currently working on Python projects and improving my skills.<br>- 🤝 I’m looking to collaborate on beginner-friendly open-source projects.<br>- 🌱 I’m currently learning  Data Structures & Algorithms, Generative and Agentic AI.<br>- 💬 Ask me about Python, C++, MySQL, JavaScript, Git/GitHub, HTML, CSS, .<br>- ⚡ Fun fact: I enjoy turning ideas into projects and learning something new every day.
 
 
 ## 🌐 Socials:
