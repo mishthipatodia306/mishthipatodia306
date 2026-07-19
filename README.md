@@ -1,129 +1,18 @@
-<div align="center">
+# 💫 About Me:
+## 👋 About Me<br><br>I'm a Computer Science Engineering student continuously improving my programming skills. I enjoy building practical projects, learning new technologies, and solving real-world problems through code.<br><br>- 🔭 I’m currently working on Python projects and improving my skills.<br>- 🤝 I’m looking to collaborate on beginner-friendly open-source projects.<br>- 🌱 I’m currently learning  Data Structures & Algorithms, Generative and Agentic AI.<br>- 💬 Ask me about Python, C++, MySQL, JavaScript, Git/GitHub, HTML, CSS, .<br>- ⚡ Fun fact: I enjoy turning ideas into projects and learning something new every day.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=220&section=header&text=Mishthi%20Patodia&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CS+Student;Building+Mega-Project+JARVIS;Python+%7C+MySQL+%7C+C%2B%2B;Exploring+GUI+Development+with+Tkinter" alt="Typing SVG" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mishthi-patodia-3b3061263) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishthipatodia887@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mishthipatodia306&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mishthipatodia306&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mishthipatodia306&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=mishthipatodia306&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/mishthipatodia306?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+---
+[![](https://komarev.com/ghpvc/?username=mishthipatodia306&icon=0&color=1)](https://visitcount.itsvg.in)
 
-</div>
-
-<br/>
-
-## 🧑‍💻 Who I Am
-
-```typescript
-const mishthi = {
-  title: "CS Student",
-  stack: ["Python", "MySQL", "C++", "HTML", "CSS", "JavaScript"],
-  launchedProjects: ["Mega-Project-JARVIS-", "Calculator"],
-  certifications: ["SQL by IBM", "Python by Infosys Springboard"],
-  status: "Learning & Building",
-  openTo: "Collaborations & Interesting Projects",
-};
-```
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🔊 Mega-Project-JARVIS-
-
-Works the same as Alexa and Google Cloud — a virtual assistant project.
-
-<div align="center">
-
-[![JARVIS](https://github-readme-stats.vercel.app/api/pin/?username=mishthipatodia306&repo=Mega-Project-JARVIS-&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/mishthipatodia306/Mega-Project-JARVIS-)
-
-</div>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Type | Virtual Assistant |
-
-🔗 [Code](https://github.com/mishthipatodia306/Mega-Project-JARVIS-)
-
-<br/>
-
-### 🖩 Calculator
-
-Designed a calculator using various concepts of Python, built with Tkinter — Python's standard (built-in) GUI library.
-
-<div align="center">
-
-[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=mishthipatodia306&repo=Calculator&theme=nord&border_color=7dd3fc&title_color=7dd3fc)](https://github.com/mishthipatodia306/Calculator)
-
-</div>
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| GUI | Tkinter |
-
-🔗 [Code](https://github.com/mishthipatodia306/Calculator)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishthipatodia306&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c0caf5" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishthipatodia306&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c0caf5" width="42%" />
-
-<img src="https://streak-stats.demolab.com?user=mishthipatodia306&theme=nord&border=7dd3fc&background=1a1b27&ring=7dd3fc&fire=7dd3fc" width="70%" />
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mishthipatodia306&theme=nord&no-frame=true&no-bg=true&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mishthipatodia306&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🔗 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishthi-patodia-3b3061263)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishthipatodia887@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
