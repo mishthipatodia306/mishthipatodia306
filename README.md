@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br>👋I'm a Computer Science Engineering student continuously improving my programming skills. I enjoy building practical projects, learning new technologies, and solving real-world problems through code.<br><br>- 🔭 I’m currently working on Python projects and improving my skills.<br>- 🤝 I’m looking to collaborate on beginner-friendly open-source projects.<br>- 🌱 I’m currently learning  Data Structures & Algorithms, Generative and Agentic AI.<br>- 💬 Ask me about Python, C++, MySQL, JavaScript, Git/GitHub, HTML, CSS, .<br>- ⚡ Fun fact: I enjoy turning ideas into projects and learning something new every day.
+## 👋 I'm a Computer Science Engineering student continuously improving my programming skills. I enjoy building practical projects, learning new technologies, and solving real-world problems through code.<br><br>- 🔭 I’m currently working on Python projects and improving my skills.<br>- 🤝 I’m looking to collaborate on beginner-friendly open-source projects.<br>- 🌱 I’m currently learning  Data Structures & Algorithms, Generative and Agentic AI.<br>- 💬 Ask me about Python, C++, MySQL, JavaScript, Git/GitHub, HTML, CSS, .<br>- ⚡ Fun fact: I enjoy turning ideas into projects and learning something new every day.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=mishthipatodia306&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mishthipatodia306&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mishthipatodia306&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=mishthipatodia306&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
